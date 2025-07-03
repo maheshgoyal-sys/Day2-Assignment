@@ -1,0 +1,78 @@
+Bonus Assignment - 1 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Birthday Invitation</title>
+</head>
+<body style="font-family: sans-serif;">
+
+    <h1>Birthday Invitation</h1>
+
+    <hr>
+
+    <p>Hi Friends!</p>
+    <p>I am very excited to invite you to my birthday party.</p>
+
+    <h3>Date & Time:</h3>
+    <p>10 July 2025, 5:00 PM</p>
+
+    <h3>Location:</h3>
+    <p>My House, Fun Street, City Name</p>
+
+    <h3>What We'll Do:</h3>
+    <ul>
+        <li>Cutting Cake</li>
+        <li>Playing Games</li>
+        <li>Music and Dance</li>
+        <li>Snacks and Gifts</li>
+    </ul>
+
+    <h3>Memory from Last Year:</h3>
+    <img src="" width="250" alt="Birthday Image">
+
+    <p><b>Please come and make my day special!</b></p>
+
+    <hr>
+
+</body>
+</html>
+ Bonus Assignment - 2
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Favorite Things</title>
+</head>
+<body style="font-family: Arial, sans-serif;">
+
+    <h1>My Favorite Things</h1>
+
+    <p>Hello! My name is Mahesh Goyal and here are some of my favorite things that I really enjoy.</p>
+
+    <h2>My Hobbies:</h2>
+    <ul>
+        <li>Drawing and Painting</li>
+        <li>Playing Cricket</li>
+        <li>Listening to Music</li>
+        <li>Reading Story Books</li>
+    </ul>
+
+    <h2>My Favorite Movies:</h2>
+    <ol>
+        <li>3 Idiots</li>
+        <li>Avengers: Endgame</li>
+        <li>Harry Potter Series</li>
+        <li>Spider-Man: No Way Home</li>
+    </ol>
+
+    <h2>A Picture I Like:</h2>
+    <img src="https://i.imgur.com/U5V2v1F.jpeg" alt="Favorite Picture" width="300">
+
+    <h2>Cool Website I Visit Often:</h2>
+    <p>One of my favorite websites is: 
+        <a href="https://www.youtube.com" target="_blank">YouTube</a>
+    </p>
+
+    <hr>
+
+</body>
+</html>
